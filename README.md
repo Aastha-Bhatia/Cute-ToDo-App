@@ -3,11 +3,11 @@
 A delightful todo application with cute UI and sound effects that makes task management fun!
 
 ## Preview
-![Cute ToDo App](https://github.com/Aastha-Bhatia/Cute-ToDo-App/Screenshot1.png)
-![Cute ToDo App](https://github.com/Aastha-Bhatia/Cute-ToDo-App/Screenshot2.png)
-![Cute ToDo App](https://github.com/Aastha-Bhatia/Cute-ToDo-App/Screenshot3.png)
-![Cute ToDo App](https://github.com/Aastha-Bhatia/Cute-ToDo-App/Screenshot4.png)
-![Cute ToDo App](https://github.com/Aastha-Bhatia/Cute-ToDo-App/Screenshot5.png)
+![Cute ToDo App](https://github.com/Aastha-Bhatia/Cute-ToDo-App/blob/main/Screenshot1.png)
+![Cute ToDo App](https://github.com/Aastha-Bhatia/Cute-ToDo-App/blob/main/Screenshot2.png)
+![Cute ToDo App](https://github.com/Aastha-Bhatia/Cute-ToDo-App/blob/main/Screenshot3.png)
+![Cute ToDo App](https://github.com/Aastha-Bhatia/Cute-ToDo-App/blob/main/Screenshot4.png)
+![Cute ToDo App](https://github.com/Aastha-Bhatia/Cute-ToDo-App/blob/main/Screenshot5.png)
 
 ## ✨ Features
 
